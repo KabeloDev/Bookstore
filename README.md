@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/jutWwzjbdqU)
 
 <h2>Description</h2>
-A book store app where users can view books, add them to a cart, buy and track their orders
+A book store demo app where users can view books, add them to a cart, buy and track their orders
 <br />
 
 
