@@ -1,6 +1,6 @@
 <h1>Book store app</h1>
 
- ### [YouTube Demonstration](https://youtu.be/jutWwzjbdqU)
+ ### [YouTube Demonstration part 1](https://youtu.be/jutWwzjbdqU)
 
 <h2>Description</h2>
 A book store demo app where users can view books, add them to a cart, buy and track their orders
